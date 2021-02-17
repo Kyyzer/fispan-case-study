@@ -85,7 +85,7 @@ Chatbots and digital assistants are now common in online services, with banks in
 
 ### Open banking
 
-Open banking is the future and provides a significant opportunity for FinTechs. Banks will turn to FinTechs and give platform access to those determined as trustworthy and valuable partners. Fispan should consider integrating the open banking and data sharing into its platform, which could help banking customers aggregate their business activities across multiple banks. This will require further development in APIs and Cloud Infrastructure. By developing this technology now, it prepares Fispan for when North America mandates open banking (although countries such as Australia have already initiated the regulation) and ensures that it is functional and secure for the consumer.
+Open banking is the future and provides a significant opportunity for FinTechs. Banks will turn to FinTechs and give platform access to those determined as trustworthy and valuable partners. Fispan should consider integrating the open banking and data sharing into its platform, which could help banking customers aggregate their business activities across multiple banks. This will require further development in APIs and Cloud Infrastructure. By developing this technology now, it prepares Fispan for when North America mandates open banking (although countries such as Australia have already initiated the regulation) and ensures that it is functional and secure for the consumer<sup>([15])</sup>.
 
 ---
 ## References
