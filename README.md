@@ -22,7 +22,7 @@ Fispan is privately held and funded by investors including: FinTop Capital, Rhin
 
 ### The Genesis story of Fispan
 
-After selling her first business, Hyperwallet, to Paypal for $400 million USD in 2018<sup>([4])</sup>, as described by her, Shields "literally sat in (her) basement for a year" and founded her second company, Fispan. Shields describes Fispan as a "very intentional business", and took into consideration two main observations:
+After selling her first business, Hyperwallet, to Paypal for $400 million USD in 2018<sup>([4])</sup>, Shields "literally sat in (her) basement for a year" and founded her second company, Fispan. Shields describes Fispan as a "very intentional business", and took into consideration two main observations:
 - Financial institutions primarily focus on retail consumer banking and she believed "there were huge opportunities to make the world better for businesses", and
 - Banks had "superior payments products, superior cash management services, superior loans... (due to) lower cost of capital"<sup>([5])</sup>
 
@@ -31,16 +31,16 @@ So instead of creating a service that sought to replace banks, Shields wanted a 
 ---
 ## Business Activities
 
-Fispan attempts to address the lengthy process that banks undergo to integrate their digital banking with the ERPs and accounting software of their commercial and corporate customers. Co-founder Clayton Weir describes how their platform "make(s) it easy for banks to extend their services offering ... by embedding commercial banking applications within the organisation's software"<sup>([6])</sup>.
+Fispan attempts to address the lengthy process that banks undergo to integrate their digital banking with the ERPs and accounting software of their commercial and corporate customers. Co-founder Clayton Weir describes how their platform "make(s) it easy for banks to extend their service offerings ... by embedding commercial banking applications within the organisation's software"<sup>([6])</sup>.
 
-Fispan uniquely offers its platform directly to banks instead of attempting to become a neo-bank such as [Northone](https://www.northone.com/) or [Starling Bank](https://www.starlingbank.com/). This allows fispan's platform to reach the already established commercial and corporate customer bases of large financial institutions, and integrate with the existing services the banks can provide.
+Fispan uniquely offers its platform directly to banks instead of attempting to become a neo-bank such as [Northone](https://www.northone.com/) or [Starling Bank](https://www.starlingbank.com/). This allows fispan's platform to reach the already established commercial and corporate customer bases of large financial institutions, and integrate with the existing systems such as: cash management, payments and lending.
 
-Fispan's API also integrates with some legacy ERPs which enable financial institutions to bring their online banking services to more of their customers. Their banking customers can then continue to use their systems and slowly migrate towards more modern digital solutions.
+Fispan's API also integrates with some legacy ERPs which enable financial institutions to bring their online banking services to more of their customers. Their banking customers can continue to use their systems and slowly migrate towards more modern tools.
 
 ### Features and Technologies
 
 - API (Application Programming Interface) brings the client's banking services natively into their business ERP and accounting software
-- Cloud computing stores client information by remote network machines
+- Cloud computing stores client information by remote network machines and also computes tasks remotely
 
 ### Partners
 
@@ -62,8 +62,8 @@ Neo-banks have also entered the market, completely online banks with no physical
 | Name | Description |
 | --- | ----------- |
 | [Northone](https://www.northone.com/) | A digital business bank account provider incorporated in Toronto, Canada in 2019
-| [Starling Bank](https://www.starlingbank.com/) | A digital challenger bank based in United Kingdom founded in 2014 |
-|  [Bank of America](https://www.bankofamerica.com/) | One of the largest banks in North America, created in 1998, and now a leader for digital banking
+| [Starling Bank](https://www.starlingbank.com/) | A digital challenger bank based in United Kingdom, founded in 2014 |
+|  [Bank of America](https://www.bankofamerica.com/) | One of the largest banks in North America, created in 1998, and now transformed into a leader for digital banking
 
 ---
 ## Results
@@ -81,7 +81,7 @@ Fispan having raised a total of $19 million USD is now planning on building team
 
 ### Digital assistant
 
-Chatbots and digital assistants are now common in online services, with banks included. Fispan offers a digital product so they could benefit from developing an online assistant built into the customer's ERP that can help solve any technical or business banking queries. The service would develop through machine learning and natural language processing, and could even integrate with the banks systems to suggest products.
+Chatbots and digital assistants are now common in online services, with banks included. Fispan offers a digital product so they could benefit from developing an online assistant built into the customer's ERP that can help solve any technical or business banking queries. The service would develop through machine learning and natural language processing, and could even integrate with the banks systems to suggest products. The assistant would be able to recognise the customer's query and provide the most relevant solution.
 
 ### Open banking
 
